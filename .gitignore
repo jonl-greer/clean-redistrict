@@ -206,6 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Data files
 data/*.shp
 data/*.dbf
 data/*.shx
@@ -214,3 +215,22 @@ data/*.cpg
 data/*.sbx
 data/*.sbn
 data/*.zip
+
+!data/coverage.json
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.svelte-kit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# IDEs
+.vscode/
+.idea/
