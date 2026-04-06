@@ -1,10 +1,9 @@
 {
-“state”: “”,
-“has_statewide_shp”: bool,
-“has_boundaries_results”: bool,
-“data_sources”: [],
-“data_format”: [],
-“years_covered”:[],
-“likely_joinable”: bool
+  "state": "",
+  "has_statewide_shp": "bool",
+  "has_boundaries_results": "bool",
+  "data_sources": [],
+  "data_format": [],
+  "years_covered": [],
+  "likely_joinable": "bool"
 }
-
