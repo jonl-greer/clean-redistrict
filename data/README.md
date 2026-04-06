@@ -41,4 +41,4 @@
         iii. Are precinct counts roughly similar across years? (will have to download files and manually check) <br>
         iv. Are files tied to common geography? (Projected to 2020 VTDs) <br>
         v. Is there a single dominant data source? <br>
-    b. If 3-5 Yes, put T, otherwise put F <br>
+    b. If 4-5 Yes, put T, otherwise put F <br>
