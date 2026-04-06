@@ -1,6 +1,6 @@
 ## Data format:
-{
-“state”: “”,\\
+{<br>
+“state”: “”,
 “has_statewide_shp”: bool,
 “has_boundaries_results”: bool,
 “data_sources”: [],
