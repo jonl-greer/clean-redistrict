@@ -56,7 +56,7 @@ App runs at `http://localhost:5173`
 
 ## Data
 
-Raw shapefiles are not committed to this repo — see `data/README.md` for download 
+Raw shapefiles are not committed to this repo — see `data/README.md` for 
 instructions. The only committed data file is `data/coverage.json`.
 
 ---
