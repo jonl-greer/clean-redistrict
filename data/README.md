@@ -1,12 +1,12 @@
 ## Data format:
 {<br>
-“state”: “”,
-“has_statewide_shp”: bool,
-“has_boundaries_results”: bool,
-“data_sources”: [],
-“data_format”: [],
-“years_covered”:[],
-“likely_joinable”: bool
+“state”: “”, <br>
+“has_statewide_shp”: bool,<br>
+“has_boundaries_results”: bool,<br>
+“data_sources”: [],<br>
+“data_format”: [],<br>
+“years_covered”:[],<br>
+“likely_joinable”: bool<br>
 }
 
 ## Data Gathering Checklist: 
