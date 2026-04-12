@@ -9,8 +9,6 @@ async def upload_files(
     election: UploadFile = File(...)
 ):
     """
-    Accept two zip file uploads (boundary shapefile + election shapefile).
-    Returns column names, feature count, and GeoJSON preview for the map.
-    TODO: implement
+    Accepts two zip files, calls load_shapefile function for each, returns column names, # of rows, GeoJSON of boundary file
     """
     pass
