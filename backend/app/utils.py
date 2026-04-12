@@ -5,7 +5,7 @@ import zipfile
 import tempfile
 import os
 
-def load_shapefile():
+def load_shapefile(zip_bytes: bytes, target_crs: str = "EPSG:4269"):
   """
   Accepts zipfile, extracts shapefiles, loads shapefiles with geopandas, reproject to common geography (EPSG:4269), returns GeoDataFrame
   """
