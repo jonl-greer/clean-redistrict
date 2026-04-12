@@ -1,4 +1,4 @@
-{
+[{
   "state": "",
   "has_statewide_shp": "bool",
   "has_boundaries_results": "bool",
@@ -6,4 +6,59 @@
   "data_format": [],
   "years_covered": [],
   "likely_joinable": "bool"
+},
+
+{
+  "state": "Alabama",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true ,
+  "data_sources": ["RDH","VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Alaska",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["MGGG","VEST","RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2014","2016","2018","2022","2024"],
+  "likely_joinable": true
+},
+
+{  
+  "state": "Arizona",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["MGGG","RDH","VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022"],
+  "likely_joinable": true
+ 
+},
+
+{
+  "state": "Arkansas",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "California",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2020"],
+  "likely_joinable": false
 }
+
+
+]
+
