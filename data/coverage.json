@@ -59,8 +59,105 @@
   "likely_joinable": false
 },
 
+{
+  "state": "Colorado",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2024"],
+  "likely_joinable": false
+},
 
+{
+  "state": "Connecticut",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020"],
+  "likely_joinable": true
+},
 
+{
+  "state": "Delaware",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["MGGG","VEST","RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012","2014","2016","2018","2020","2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Florida",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH","VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Georgia",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH","VEST","MGGGG","PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Hawaii",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Idaho",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST", "RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Illinois",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Indiana",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Iowa",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020"],
+  "likely_joinable": false
+},
 
 
 
