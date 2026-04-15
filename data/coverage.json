@@ -159,6 +159,106 @@
   "likely_joinable": false
 },
 
+{
+  "state": "Kansas",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","other"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012","2016","2018","2020","2022"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Kentucky",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2020","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Louisiana",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","MGGG","state"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Maine",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012","2014","2016","2018","2020"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Maryland",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012","2014","2016","2018","2020"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Massachusetts",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["MGGG","VEST","RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2002","2004","2006","2008","2010","2012","2014","2016","2018","2020","2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Michigan",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST","RDH","MGGG","other"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Minnesota",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["MGGG","VEST","RDH","PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012","2014","2016","2018","2020","2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Mississippi",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2022","2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Missouri",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH","VEST","PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016","2018","2020","2024"],
+  "likely_joinable": false
+},
+
 
 
 {
