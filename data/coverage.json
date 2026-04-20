@@ -297,8 +297,8 @@
   "has_boundaries_results": true,
   "data_sources": ["RDH", "VEST", "MGGG"],
   "data_format": ["shapefile"],
-  "years_covered": ["2016", "2018", "2020", "2024"],
-  "likely_joinable": true
+  "years_covered": ["2012", "2014", "2016", "2018", "2020", "2024"],
+  "likely_joinable": false
 },
 
 {
@@ -308,6 +308,206 @@
   "data_sources": ["VEST"],
   "data_format": ["shapefile"],
   "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "New Mexico",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2022"],
+  "likely_joinable": false
+},
+
+{
+  "state": "New York",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "North Carolina",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "NCSBE", "VEST", "PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2022", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "North Dakota",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Ohio",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2022", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Oklahoma",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST", "MGGG", "PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Oregon",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Pennsylvania",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["shapefile"],
+  "data_format": ["VEST", "RDH", "PGP"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Rhode Island",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "South Carolina",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2022", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "South Dakota",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Tennessee",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Texas",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2012", "2014", "2016", "2018", "2020", "2022", "2024"],
+  "likely_joinable": true
+},
+
+{
+  "state": "Utah",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Vermont",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Virginia",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Washington",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST", "MGGG", "PGP"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "West Virginia",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Wisconsin",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["VEST", "RDH"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020"],
+  "likely_joinable": false
+},
+
+{
+  "state": "Wyoming",
+  "has_statewide_shp": true,
+  "has_boundaries_results": true,
+  "data_sources": ["RDH", "VEST"],
+  "data_format": ["shapefile"],
+  "years_covered": ["2016", "2018", "2020", "2024"],
   "likely_joinable": false
 }
 
