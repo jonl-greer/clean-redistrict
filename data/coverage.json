@@ -327,7 +327,7 @@
   "has_boundaries_results": true,
   "data_sources": ["VEST", "other"],
   "data_format": ["shapefile"],
-  "years_covered": ["2016", "2018", "2020"],
+  "years_covered": ["2016", "2018", "2020", "2022", "2024"],
   "likely_joinable": false
 },
 
